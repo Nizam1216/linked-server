@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-MONGO_url = "mongodb+srv://nizam:20h65a1216@cluster0.bzysdzf.mongodb.net/Razaq?retryWrites=true&w=majority"
+MONGO_url = "mongodb+srv://<username:password>@cluster0.bzysdzf.mongodb.net/Razaq?retryWrites=true&w=majority"
 
 const connectToMongo =  () =>{
 
